@@ -1,0 +1,102 @@
+{
+  "main": {
+    "name":"Sehrish Munir",
+    "occupation":"Web Engineer",
+    "description":"",
+    "image":"profilepic.png",
+    "bio":"",
+    "contactmessage":"Get In Touch",
+    "email": "sehrishmalikk1@gmail.com",
+    "phone": "+923481517490",
+    "address":{
+      "city":"Rawalpindi, Pakistan"
+    },
+    "website": "https://https://sehrishmalikk.github.io",
+    "resumedownload":"https://www.overleaf.com/project/5c07a6dbc00ee27991fc598a/output/output.pdf?compileGroup=standard&clsiserverid=clsi-pre-emp-mkg6&popupDownload=true",
+    "social":[
+      {
+        "name":"github",
+        "url":"https://github.com/SehrishMalikk",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"stack-overflow",
+        "url":"https://stackoverflow.com/users/12098957/sehrish",
+        "className":"fa fa-stack-overflow"
+      },
+      
+      
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/shrxkhan1",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/sehrish-malik-994601100/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/shrx.malik/",
+        "className":"fa fa-instagram"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"",
+    "education":[
+      {
+        "school":"The University of Lahore",
+        "degree":"BS Software Engineering",
+        "graduated":"2019",
+        "description":""
+      }
+    ],
+    "work":[
+      {
+        "company":"SenhoIT Solutions",
+        "title":"Internee",
+        "years":"Aug 2019 - Oct 2019",
+        "description":"Identifing,tracking and reporting bugs,documentation,SQA tools and best practices"
+      }
+      
+    ],
+    "skills":[
+      {
+        "name":"Java",
+        "level":"60%"
+      },
+      
+      {
+        "name":"javaScript",
+        "level":"50%"
+      },
+      {
+        "name":"Selenium",
+        "level":"80%"
+      },
+      {
+        "name":"Protractor",
+        "level":"35%"
+      },
+      
+      {
+        "name":"Jasmine",
+        "level":"40%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Be the change that you wish to see in the world.",
+        "user":"i"
+      }
+    ]
+  }
+}
